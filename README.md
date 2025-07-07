@@ -2,7 +2,7 @@ E-Commerce Management System
 A comprehensive web-based e-commerce management system built for managing products, users, orders, and inventory with a modern, responsive interface.
 This project is developed for  real-world retail client and includes all essential billing features such as:
 
-![image alt]()
+![image alt](https://github.com/MrutyunjoyMurmu/EcomDas/blob/e228d5c4bf4638f02005bce18709a6ebf57ecdaf/Screenshot%20(1906).png)
 
 ✅ Category & Product Management  
 ✅ File Upload (Image) Support  
